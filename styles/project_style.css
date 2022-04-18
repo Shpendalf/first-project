@@ -15,11 +15,11 @@
     display:flex;
 
   }
-  .logo__size{
+  .header__logo-size{
     width:228px;
     height:32px;
   }
-  .logo__place-header{
+  .header__logo-place{
     display:flex;
     position:absolute;
     top:30px;
@@ -158,18 +158,18 @@
     margin-left:auto;
     margin-right:auto;
   }
-  .digits__table_cell-size{
+  .digits__table-cell-size{
     display:flex;
     flex-direction:column;
     width:250px;
     margin-top:60px;
   }
-  .digits__table_cell-headers{
+  .digits__table-cell-headers{
     line-height:1.15;
     font-size:24px;
     font-weight:bold;
   }
-  .digits__table_cell-text{
+  .digits__table-cell-text{
     display:flex;
     line-height:1.2;
     font-size:18px;
@@ -271,7 +271,7 @@
     font-weight:normal;
             }
 
-  .kaufman__table_cell-size{
+  .kaufman__table-cell-size{
     margin-top:80px;
     display:flex;
     flex-direction:column;
@@ -280,22 +280,24 @@
     margin-left:auto;
     margin-right:auto;
   }
-  .kaufman__table_cell-heading-dark{
+  .kaufman__table-cell-heading-dark{
     line-height:1.15;
     font-size:24px;
     font-weight:bold;
   }
-  .kaufman__table_cell-text-dark{
+  .kaufman__table-cell-text-dark{
     display:flex;
     line-height:1.2;
     font-size:18px;
     font-style:normal;
     font-weight:normal;
   }
-  .theme__dark{
+  .kaufman__theme-dark{
     color:white;
   }
-
+  .footer__theme-dark{
+    color:white;
+  }
   .footer{
     padding-top:60px;
     padding-bottom:40px;
