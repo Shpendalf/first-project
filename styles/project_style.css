@@ -158,18 +158,18 @@
     margin-left:auto;
     margin-right:auto;
   }
-  .digits__table-cell-size{
+  .digits__table_cell-size{
     display:flex;
     flex-direction:column;
     width:250px;
     margin-top:60px;
   }
-  .digits__table-cell-headers{
+  .digits__table_cell-headers{
     line-height:1.15;
     font-size:24px;
     font-weight:bold;
   }
-  .digits__table-cell-text{
+  .digits__table_cell-text{
     display:flex;
     line-height:1.2;
     font-size:18px;
@@ -271,7 +271,7 @@
     font-weight:normal;
             }
 
-  .kaufman__table-cell-size{
+  .kaufman__table_cell-size{
     margin-top:80px;
     display:flex;
     flex-direction:column;
@@ -280,12 +280,12 @@
     margin-left:auto;
     margin-right:auto;
   }
-  .kaufman__table-cell-heading-dark{
+  .kaufman__table_cell-heading-dark{
     line-height:1.15;
     font-size:24px;
     font-weight:bold;
   }
-  .kaufman__table-cell-text-dark{
+  .kaufman__table_cell-text-dark{
     display:flex;
     line-height:1.2;
     font-size:18px;
