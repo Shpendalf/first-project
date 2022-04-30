@@ -1,14 +1,9 @@
-
-.video{
-
-  display:flex;
-  flex-direction:column;
-  justify-content: center;
-  margin-top:100px;
-
- overflow:visible;
-margin-bottom:-60px;
-
-
-}
+  .video{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-top:100px;
+    overflow:visible;
+    margin-bottom:-60px;
+    }
 

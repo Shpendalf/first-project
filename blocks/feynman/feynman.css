@@ -1,8 +1,8 @@
-
-.feynman{
+  .feynman{
     position:relative;
     background-color:#f2f2f2;
     min-height:890px;
     margin-top:0px;
     margin-bottom:0px;
-               }
+    z-index:0;
+    }

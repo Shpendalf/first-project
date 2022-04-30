@@ -1,6 +1,5 @@
-.video__iframe{
-position:relative;
-
-    width:515px;
-    height:316px;
-}
+  .video__iframe{
+    position:relative;
+    margin-top:0px;
+    margin-bottom:0px;
+    }

@@ -1,12 +1,11 @@
-
 .section-subtitle{
-    margin-top:0px;
-    width:60%;
-    margin-bottom:0px;
-    /*выставил margin 20% с учетом родительской ширины*/
-    margin-left:20%;
-    text-align:center;
-    line-height:34px;
-    font-size:24px;
-    font-weight:normal;
-           }
+  margin-top:0px;
+  width:60%;
+  margin-bottom:0px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  line-height:34px;
+  font-size:24px;
+  font-weight:normal;
+   }
