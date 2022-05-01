@@ -1,5 +1,10 @@
-  .resources__link{
-    text-decoration:none;
-    margin-top:0px;
-    margin-bottom:0px;
-    }
+.resources__link {
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  transition: opacity 1s ease;
+}
+
+.resources__link:hover {
+  opacity: 0.3;
+}

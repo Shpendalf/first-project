@@ -1,7 +1,7 @@
-  .digits{
-    margin-top:100px;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    margin-bottom:100px;
-    }
+.digits {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 100px;
+}

@@ -1,6 +1,6 @@
-  .resources{
-    margin-top:100px;
-    display:flex;
-    flex-direction:column;
-    margin-bottom:0px;
-    }
+.resources {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0px;
+}

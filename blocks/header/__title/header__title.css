@@ -1,10 +1,10 @@
-  .header__title{
-    margin-top:0px;
-    margin-bottom:0px;
-    width:730px;
-    line-height:96px;
-    font-size: 102px;
-    font-weight:bold;
-    position:relative;
-    margin-left:64px;
-    }
+.header__title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 730px;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+  position: relative;
+  margin-left: 64px;
+}
